@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
+	Comentarii la: Hello world!	</title>
 	<atom:link href="/2021/01/30/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>/2021/01/30/hello-world/</link>
 	<description>Tractări auto în București și Ilfov</description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
+		De: A WordPress Commenter		</title>
 		<link>/2021/01/30/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
